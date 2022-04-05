@@ -1,2 +1,0 @@
-# AgrotechDrone
-Drone website
